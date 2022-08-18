@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2226929e-a53b-4b73-858e-a5509561a398/microsoft.web/sites/subscriptions/2226929e-a53b-4b73-858e-a5509561a398/resourceGroups/akc-lister-web-app/providers/Microsoft.Web/sites/akclister",
+    "appService.deploySubpath": "dist"
+}
